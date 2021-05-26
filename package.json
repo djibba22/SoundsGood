@@ -34,5 +34,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "funny class project",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djibba22/SoundsGood.git"
+  },
+  "keywords": [
+    "sounds",
+    "good"
+  ],
+  "author": "John Dinsmore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djibba22/SoundsGood/issues"
+  },
+  "homepage": "https://github.com/djibba22/SoundsGood#readme"
 }
