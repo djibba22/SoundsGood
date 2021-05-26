@@ -1,29 +1,19 @@
-import React, { useEffect, useState } from 'react';
-import logo from './logo.svg';
+
 import pinkadam from './adam2.png';
 import sgj from './soundsgoodjohn.m4a';
 import sgd from './sounds_good_dan.m4a';
 import './App.css';
 
 function App() {
-
-  var sgjohn = new Audio(sgj);
-
-  var sgdan = new Audio(sgd);
-
-
-
+  const sgjohn = new Audio(sgj);
+  const sgdan = new Audio(sgd);
 
   const playJohn = () => {
-
     sgjohn.play();
-
   }
-
+  
   const playDan = () => {
-
     sgdan.play();
-
   }
 
   return (
