@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SoundsGood/static/css/main.0fff3b4e.chunk.css",
-    "main.js": "/SoundsGood/static/js/main.92042f97.chunk.js",
-    "main.js.map": "/SoundsGood/static/js/main.92042f97.chunk.js.map",
+    "main.css": "/SoundsGood/static/css/main.ae8e414e.chunk.css",
+    "main.js": "/SoundsGood/static/js/main.65003b65.chunk.js",
+    "main.js.map": "/SoundsGood/static/js/main.65003b65.chunk.js.map",
     "runtime-main.js": "/SoundsGood/static/js/runtime-main.6ccca0d5.js",
     "runtime-main.js.map": "/SoundsGood/static/js/runtime-main.6ccca0d5.js.map",
     "static/js/2.27a8e35b.chunk.js": "/SoundsGood/static/js/2.27a8e35b.chunk.js",
@@ -10,17 +10,16 @@
     "static/js/3.b8d42f8e.chunk.js": "/SoundsGood/static/js/3.b8d42f8e.chunk.js",
     "static/js/3.b8d42f8e.chunk.js.map": "/SoundsGood/static/js/3.b8d42f8e.chunk.js.map",
     "index.html": "/SoundsGood/index.html",
-    "static/css/main.0fff3b4e.chunk.css.map": "/SoundsGood/static/css/main.0fff3b4e.chunk.css.map",
+    "static/css/main.ae8e414e.chunk.css.map": "/SoundsGood/static/css/main.ae8e414e.chunk.css.map",
     "static/js/2.27a8e35b.chunk.js.LICENSE.txt": "/SoundsGood/static/js/2.27a8e35b.chunk.js.LICENSE.txt",
     "static/media/adam2.c8e61d6c.png": "/SoundsGood/static/media/adam2.c8e61d6c.png",
-    "static/media/logo.6ce24c58.svg": "/SoundsGood/static/media/logo.6ce24c58.svg",
     "static/media/sounds_good_dan.77e68b55.m4a": "/SoundsGood/static/media/sounds_good_dan.77e68b55.m4a",
     "static/media/soundsgoodjohn.a84dec9d.m4a": "/SoundsGood/static/media/soundsgoodjohn.a84dec9d.m4a"
   },
   "entrypoints": [
     "static/js/runtime-main.6ccca0d5.js",
     "static/js/2.27a8e35b.chunk.js",
-    "static/css/main.0fff3b4e.chunk.css",
-    "static/js/main.92042f97.chunk.js"
+    "static/css/main.ae8e414e.chunk.css",
+    "static/js/main.65003b65.chunk.js"
   ]
 }
